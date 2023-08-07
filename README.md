@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Prueba Tecnica Laravel Gerardo Ramos vbargas
+## Prueba Tecnica Laravel Gerardo Ramos vargas
 
 Esta prueba la inice el 7 de Agosto, y debo cumplir los siguientes requisitos
 
@@ -22,6 +22,10 @@ finalizó la tarea.
 - El reporte podría ser descargable (opcional).
 - Opción para marcar una tarea como completada.
 - Opción para eliminar una tarea.
+
+## comando Instalacion en Windows
+
+php artisan serve
 
 ## About Laravel
 
