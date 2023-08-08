@@ -25,7 +25,8 @@ finalizó la tarea.
 
 ## comando Instalacion en Windows
 
-php artisan serve
+- composer update
+- php artisan serve
 
 ## About Laravel
 
